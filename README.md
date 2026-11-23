@@ -37,8 +37,6 @@ npm install
 npm run build
 ```
 
-If `.env` already exists, update its settings instead of overwriting it.
-
 ## Database Setup
 
 Create a MySQL database named `pos`, then configure `.env`:
